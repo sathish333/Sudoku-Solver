@@ -1,6 +1,6 @@
 # Sudoku-Solver
 simple java program to solve sudoku.  
-Step 1:clone the repo  
+Step 1:clone the repository by using the command "git clone https://github.com/sathish333/Sudoku-Solver.git"    
 Step 2:compile the program by using the command "javac Sudoku.java  
 Step 3:Run the program by using the command "java Sudoku"  
 Step 3:enter your sudoku line by line by giving empty cells as 0  
